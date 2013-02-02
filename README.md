@@ -1,7 +1,9 @@
 Bootstrapx Clickover
 =================
 
-bootstrapx clickover provides enhancements to [Twitter Bootstrap Popovers](http://twitter.github.com/bootstrap#popover) to allow popovers to be opened/closed with click events and some other niceities
+Bootstrapx Clickover provides enhancements to [Twitter Bootstrap Popovers](http://twitter.github.com/bootstrap#popover) to allow popovers to be opened/closed with click events.
+
+This repo is a fork of leecar-red's original Bootstrapx Clickover, however this repo will aim to keep itself always up to date with the latest stable bootstrap version. While backwards compatibilty may be possible, this repo is about moving forward - the plugin versioning will match bootstraps primary versioning syntax to indicate compatibility.
 
 Quick Start
 -----------
@@ -15,31 +17,27 @@ Requires
 
 Must include bootstrap's tooltip and popover js libraries and bootstrap's css
 
-Currently it supports verisons: 2.0.x
+Currently this plugin is at version 2.2.2, which supports Bootstrap verison: 2.2.2
 
-Not tested with bootstrap: 2.1.x (please give it a try and open a bug if you run into an issue)
+I have not tested with previous versions of bootstrap, however backwards compatibilty may be possible.
 
-Resources
----------
-
-See examples at http://www.leecarmichael.com/bootstrapx-clickover/examples.html
 
 Version
 -----------
 
-1.0.0
+2.2.2
 
 Bug tracker
 -----------
 
 Have a bug? Please create an issue here on GitHub!
 
-https://github.com/lecar-red/bootstrapx-clickover/issues
+https://github.com/matthew-muscat/bootstrapx-clickover/issues
 
 Copyright and license
 ---------------------
 
-Copyright 2012 Lee Carmichael
+Original Bootstrapx Clickover is Copyright 2012 Lee Carmichael
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this work except in compliance with the License.
